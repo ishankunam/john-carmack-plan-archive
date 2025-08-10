@@ -3814,7 +3814,7 @@ I am splitting qbsp up into three seperate programs, which will make the memory 
 
 -----------------------------------------
 John Carmack's .plan for Sep 10, 1996
------------------------------------------
+----------------------------------------- BOOKMARK
 
 Ok, I'm back on QuakeWorld.
 
